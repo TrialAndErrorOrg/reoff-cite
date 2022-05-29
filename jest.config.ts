@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'reoff-cite',
   preset: '../../../jest.preset.js',
